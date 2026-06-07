@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm KaanaxD
 
-<!--
-**KaanaxD/KaanaxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Informatics Student
+- Interested in Backend Development
+- Learning TypeScript, Node.js, Java, and Databaset
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- C++
+- Java
+- TypeScript
+- JavaScript
+- SQL
+
+### Frameworks & Tools
+- Node.js
+- Express.js
+- Git
+- GitHub
+- MySQL
+
+## Currently Learning
+- Backend Development
+- System Design
+- Data Structures & Algorithms
+- Competitive Programming
+- English for Tech
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaanaxD&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaanaxD&layout=compact)
