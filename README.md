@@ -1,4 +1,4 @@
-# Hi there, I'm KaanaxD
+# Hi there, I'm KaanaxD 
 
 ## About Me
 - Informatics Student
@@ -8,25 +8,15 @@
 ## Tech Stack
 
 ### Languages
-- C++
-- Java
 - TypeScript
 - JavaScript
+- Java
+- C++
 - SQL
 
 ### Frameworks & Tools
 - Node.js
 - Express.js
+- PostgreSQL
 - Git
 - GitHub
-- MySQL
-
-## Currently Learning
-- Backend Development
-- System Design
-- Data Structures & Algorithms
-- Competitive Programming
-- English for Tech
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=KaanaxD&theme=vue-dark&hide_border=true)
-
