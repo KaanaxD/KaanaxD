@@ -28,8 +28,5 @@
 - Competitive Programming
 - English for Tech
 
-## GitHub Stats
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=KaanaxD&theme=vue-dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaanaxD&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaanaxD&layout=compact)
