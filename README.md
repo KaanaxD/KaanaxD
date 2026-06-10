@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm KaanaxD 👋</h1>
+<h1 align="center">Hi there, I'm KaanaxD</h1>
 
 <p align="center">
   Informatics student · Backend developer in progress
@@ -17,7 +17,6 @@
 - 🎓 Studying **Informatics Engineering**
 - 🔧 Focused on **backend development** — APIs, databases, and how systems fit together
 - 🌱 Currently deepening knowledge in **TypeScript**, **Node.js**, and **PostgreSQL**
-- 🚀 Always building something
 
 ---
 
@@ -41,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanaxD&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
